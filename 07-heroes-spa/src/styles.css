@@ -1,0 +1,13 @@
+#Link{
+    text-decoration: none;
+}
+
+
+.h1{
+    color: blue;
+}
+
+.animate__animated.animate__backInUp {
+    --animate-duration: 0.5s;
+}
+
